@@ -1,0 +1,8 @@
+{
+  "name": "useform",
+  "version": "1.0.0",
+  "description": "react hooks,create a form fields quickly",
+  "main": "useForm.js",
+  "author": "zhangyu1818",
+  "license": "MIT"
+}
